@@ -1,4 +1,4 @@
-- 📄 My Website: http://BasicSites.ddns.net
+- 📄 My Website: http://basicsites.ddns.net/
 - 👋 Hi, I’m RGBToaster
 - 👀 I’m interested in Web Dev. & Python
 - 🌱 I’m currently learning Python
