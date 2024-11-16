@@ -1,4 +1,4 @@
-- 📄 My Website: http://basicsites.ddns.net/ [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1le63.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+- 📄 My Website: (CURRENTLY OFFLINE) https://basicsites.ddns.net/
 - 👋 Hi, I’m RGBToaster
 - 👀 I’m interested in Web Dev. & Python
 - 🌱 I’m currently learning Python
