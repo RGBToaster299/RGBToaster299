@@ -2,7 +2,7 @@
 - 👋 Hi, I’m RGBToaster
 - 👀 I’m interested in Web Dev. & Python
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: E-Mail: kontakt.rgbtoaster@gmail.com
+- 📫 How to reach me: E-Mail: kontakt.basicsites@gmail.com
 - 😄 Pronouns: He/Him (Wallmart bag)
 - ⚡ Fun fact: I know how to center a DIV ^^
 
