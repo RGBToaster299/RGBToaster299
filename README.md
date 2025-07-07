@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Passive Development at Nekari<br>🌱 I’m currently learning: Lua, just for fun<br>💬 Ask me about, basically anyth6<br>⚡ Fun fact: I daily drive Arch Linux (btw)
+🔭 I’m currently working on: Passive Development at Nekari<br>🌱 I’m currently learning: Lua, just for fun<br>💬 Ask me about, basically anything<br>⚡ Fun fact: I daily drive Arch Linux (btw)
 
 
 ## 🌐 Socials:
