@@ -1,7 +1,7 @@
 > [!CAUTION]
-> I'm probably leaving GitHub soon.
-> [Read this article](https://www.businessinsider.com/github-ceo-developers-embrace-ai-or-get-out-2025-8)
-> I'll add some info here later
+> I'm probably leaving GitHub soon.<br/>
+> [Read this article](https://www.businessinsider.com/github-ceo-developers-embrace-ai-or-get-out-2025-8)<br/>
+> I'll add some info here later<br/>
 
 # 💫 About Me:
 🔭 I’m currently working on: Passive Development at Nekari<br>🌱 I’m currently learning: Lua, just for fun<br>💬 Ask me about, basically anything<br>⚡ Fun fact: I daily drive Arch Linux (btw)
