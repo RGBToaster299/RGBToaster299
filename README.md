@@ -2,7 +2,7 @@
 > I've left GitHub<br/>
 > [Read this article](https://www.businessinsider.com/github-ceo-developers-embrace-ai-or-get-out-2025-8)<br/>
 > See my new Stuff here:<br/>
-> https://basicsites.ddns.net/git/RGBToaster <br>
+> https://git.basicsites.ddns.net/RGBToaster <br>
 
 # 💫 About Me:
 🔭 I’m currently working on: Passive Development at Nekari<br>🌱 I’m currently learning: Lua, just for fun<br>💬 Ask me about, basically anything<br>⚡ Fun fact: I daily drive Arch Linux (btw)
