@@ -1,5 +1,5 @@
 > [!CAUTION]
-> I've left GitHub<br/>
+> I left GitHub<br/>
 > [Read this article](https://www.businessinsider.com/github-ceo-developers-embrace-ai-or-get-out-2025-8)<br/>
 > See my new Stuff here:<br/>
 > https://git.basicsites.ddns.net/RGBToaster <br>
